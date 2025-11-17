@@ -7,35 +7,28 @@
 
 ## Descrição do Projeto
 
-Este projeto foi desenvolvido utilizando Jetpack Compose e implementa um sistema de login com navegação entre telas, incluindo uma calculadora de IMC e uma tela de informações da equipe.
+Projeto desenvolvido em Jetpack Compose com sistema de login, navegação entre telas, calculadora de IMC e tela de informações da equipe.
 
 ## Funcionalidades
 
-### Tela de Login
-- Validação de credenciais (usuário: admin, senha: 123456)
-- Exibição de mensagem de erro caso as credenciais sejam inválidas
-- Navegação para a tela de menu após login bem-sucedido
-
-### Tela de Menu
-- Botão para acessar a Calculadora de IMC
-- Botão para acessar a tela de Equipe
-- Botão para voltar à tela de Login
-
-### Tela de Calculadora IMC
-- Campo para inserir o nome
-- Campo para inserir o peso (em Kg)
-- Campo para inserir a altura (em cm)
-- Botão para calcular o IMC
-- Exibição do resultado com o nome da pessoa e classificação do IMC
-- Botão para voltar ao menu
-
-### Tela de Equipe
-- Exibição dos nomes dos integrantes da equipe
-- Botão para voltar ao menu
+- **Login**: Validação de credenciais (admin/123456) com mensagem de erro
+- **Menu**: Navegação para Calculadora IMC, Equipe e retorno ao Login
+- **Calculadora IMC**: Campos para nome, peso (Kg) e altura (cm), cálculo e exibição do resultado
+- **Equipe**: Exibição dos integrantes com botão de retorno ao menu
 
 ## Screenshots
 
-*Adicione aqui as screenshots das telas funcionando*
+<img width="1440" height="3040" alt="login" src="https://github.com/user-attachments/assets/1fd5181d-ab94-4531-aa63-57d0bc6e3243" />
+
+<img width="1440" height="3040" alt="login-erro" src="https://github.com/user-attachments/assets/decfe538-c33c-49e3-b2d3-d4458e7a7caf" />
+
+<img width="1440" height="3040" alt="menu" src="https://github.com/user-attachments/assets/7808c76c-fc6a-4202-add8-d562b4eb1685" />
+
+<img width="1440" height="3040" alt="equipe" src="https://github.com/user-attachments/assets/a9a02d76-6bb5-42f2-91e7-f02b61d6c9e9" />
+
+<img width="1440" height="3040" alt="calculo-mc" src="https://github.com/user-attachments/assets/859ed024-af5c-4c8e-a49d-ede0168e7295" />
+
+<img width="1440" height="3040" alt="calculoImcTeste" src="https://github.com/user-attachments/assets/e12d3bd4-8aac-415a-858d-0248765c58c3" />
 
 ## Tecnologias Utilizadas
 
